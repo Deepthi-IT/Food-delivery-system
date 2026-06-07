@@ -15,4 +15,4 @@ My primary responsibility in this project was developing the **Food Item Managem
 
 ## 🛠️ Tech Stack Used
 * **Backend:** Java, Spring Boot, Maven
-* **Database:** MySQL
+* **Database:** File based storage
